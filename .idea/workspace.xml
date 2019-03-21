@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01d6ee8c-198d-40f8-9d46-2b002e3930d3" name="Default Changelist" comment="">
+
       <change beforePath="$PROJECT_DIR$/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/b.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list default="true" id="01d6ee8c-198d-40f8-9d46-2b002e3930d3" name="Default Changelist" comment="" />
+
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+
         <entry file="file://$PROJECT_DIR$/b.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -78,11 +84,19 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-4860" />
+
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2775" />
+
           </provider>
         </entry>
       </file>
     </leaf>
+
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+
+
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,6 +128,11 @@
               <item name="kk-git-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="kk-git-test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="kk-git-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kk-git-test" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -121,7 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553155676664" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553156233688" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,6 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553087077787</updated>
+
      
       <workItem from="1553134520600" duration="10625000" />
       <workItem from="1553134520600" duration="9407000" />
@@ -152,10 +172,15 @@
 
       <workItem from="1553134520600" duration="10011000" />
 
+
+      <workItem from="1553087079042" duration="1243000" />
+      <workItem from="1553134520600" duration="10329000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+
 
 
     <option name="totallyTimeSpent" value="4109000" />
@@ -167,6 +192,9 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49828178" visible="true" weight="0.25373134" />
 
     <option name="totallyTimeSpent" value="3406000" />
+
+    <option name="totallyTimeSpent" value="3724000" />
+
   </component>
   <component name="ToolWindowManager">
     <frame x="264" y="0" width="1400" height="1000" extended-state="0" />
@@ -187,8 +215,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32871974" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.42560554" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.42560554" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+
 
 
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32871974" />
@@ -196,6 +225,9 @@
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32871974" />
 
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32871974" />
+
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32871974" />
+
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -297,6 +329,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -314,7 +347,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4246" />
       </provider>
-    </entry>
+   </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -335,6 +368,11 @@
           <second_editor />
 
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2775" />
       </provider>
     </entry>
   </component>
